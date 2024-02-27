@@ -10,6 +10,12 @@ namespace GameTool
     public enum eSoundName
     {
         None,
-        ButtonClick,
+        Jump_Sound,
+        Metal_Sound,
+        Wood_Sound,
+        Stone_Sound,
+        Player_Dead,
+        Explosion_Sound,
+        Shoot_Sound,
     }
 }

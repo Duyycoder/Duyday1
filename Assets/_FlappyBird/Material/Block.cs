@@ -1,15 +1,26 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using GameTool;
 using UnityEngine;
 
-public class Block : MonoBehaviour
+public class Block : BasePooling
 {
-    private void OnCollisionEnter2D(Collision2D other)
+    // private void OnTrigg
+    // {
+    //     if (other.gameObject.CompareTag("Bullet"))
+    //     {
+    //         Debug.Log(message:"Hit block");
+    //         other.gameObject.SetActive(false);
+    //     }   
+    // }
+
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Player"))
+        if (other.gameObject.CompareTag("Bullet"))
         {
-            Debug.Log(message:"Collided with bird");
+            Debug.Log(message:"Hit block");
+            other.gameObject.SetActive(false);
         }   
     }
 }

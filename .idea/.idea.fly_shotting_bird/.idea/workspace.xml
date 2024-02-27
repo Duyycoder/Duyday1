@@ -3,19 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="d67daf72-0948-4b98-b104-f65dc42a68bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.fly_shotting_bird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.fly_shotting_bird/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameTool/Resource/PoolingTable.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameTool/Resource/PoolingTable.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameTool/Scripts/Audio/eAudioName.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameTool/Scripts/Audio/eAudioName.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameTool/Scripts/ButtonScaler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameTool/Scripts/ButtonScaler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameTool/Scripts/Pool/NamePrefabPool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameTool/Scripts/Pool/NamePrefabPool.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Material/New Physics Material 2D.physicsMaterial2D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Material/New Physics Material 2D.physicsMaterial2D.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Material/Block.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Material/Block.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Prefabs/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Prefabs/Bullet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Script/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Script/Bullet.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Script/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Script/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Blue Lazer/Blue Level 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Blue Lazer/Blue Level 1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Blue Lazer/Blue Level 2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Blue Lazer/Blue Level 2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Blue Lazer/Blue Level 3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Blue Lazer/Blue Level 3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Green Laser/Green Level 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Green Laser/Green Level 1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Green Laser/Green Level 2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Green Laser/Green Level 2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Green Laser/Green Level 3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Green Laser/Green Level 3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Red Laser/Red Level 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Red Laser/Red Level 1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Red Laser/Red Level 2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Red Laser/Red Level 2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Red Laser/Red Level 3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Red Laser/Red Level 3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +25,19 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Material/Block.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GameTool/Scripts/Pool/NamePrefabPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Script/Wall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Script/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.animation@5.2.3/Editor/SkinningModule/OutlineGenerator/OutlineGenerator.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/_FlappyBird/Material/Block.cs" />
-      <option value="$PROJECT_DIR$/Assets/_FlappyBird/Script/Bullet.cs" />
+      <option value="$PROJECT_DIR$/Assets/_FlappyBird/Script/Wall.cs" />
+      <option value="$PROJECT_DIR$/Assets/_FlappyBird/Script/GameManager.cs" />
       <option value="$PROJECT_DIR$/Assets/_FlappyBird/Script/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/_FlappyBird/Script/Bullet.cs" />
+      <option value="$PROJECT_DIR$/Assets/_FlappyBird/Material/Block.cs" />
+      <option value="$PROJECT_DIR$/Assets/_FlappyBird/Script/Data/BlockData.cs" />
+      <option value="$PROJECT_DIR$/Assets/GameTool/Scripts/ButtonScaler.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2aOjGSIybgFK8E0qBinwL50vvrU" />
@@ -82,6 +85,10 @@
       <workItem from="1704196430577" duration="3927000" />
       <workItem from="1704798352884" duration="6402000" />
       <workItem from="1704807098277" duration="1252000" />
+      <workItem from="1705451533605" duration="826000" />
+      <workItem from="1705978796583" duration="2009000" />
+      <workItem from="1708426529303" duration="8716000" />
+      <workItem from="1709036151104" duration="1854000" />
     </task>
     <servers />
   </component>
